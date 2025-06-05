@@ -10,7 +10,7 @@ A calming digital journal to help you focus on what matters each day. Log goals,
 
 ## 🌟 Features
 
-![App Preview](dailyfocus.gif) <!-- Add screenshot later -->
+![App Preview](dailyfocus2.gif) <!-- Add screenshot later -->
 
 ### Core
 - **Daily Entry Creation**
