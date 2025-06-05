@@ -1,6 +1,6 @@
 # ✨ Daily Focus Journal
 
-![App Preview](./preview.png) <!-- Add screenshot later -->
+![App Preview](dailyfocus.gif) <!-- Add screenshot later -->
 
 A calming digital journal to help you focus on what matters each day. Log goals, reflections, or scripture in a minimalist interface.
 
@@ -9,6 +9,8 @@ A calming digital journal to help you focus on what matters each day. Log goals,
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-3178C6.svg?logo=typescript)](https://www.typescriptlang.org/)
 
 ## 🌟 Features
+
+![App Preview](dailyfocus.gif) <!-- Add screenshot later -->
 
 ### Core
 - **Daily Entry Creation**
